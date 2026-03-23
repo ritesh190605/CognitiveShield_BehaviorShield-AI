@@ -7,7 +7,7 @@
 ### 🎯 Problem Statement
 Developing a next-generation fraud detection system that goes beyond traditional transaction monitoring by analyzing behavioral financial patterns, contextual signals, and adaptive risk scoring to proactively identify suspicious financial activity in digital payment ecosystems.
 
----
+--- 
 
 ### Track 
 Fintech / AI-ML / Cyber Sercurity
